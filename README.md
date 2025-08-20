@@ -1,0 +1,1 @@
+A simple Python CLI program to fetch the relative address of a function or byte offset between two functions. Alternatively just use objdump and pipe the output into grep. :blush:
